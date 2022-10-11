@@ -1,5 +1,4 @@
-<div align="center">
-  
+ 
 ## Hi There 👋
 
 <!--
@@ -26,19 +25,16 @@ Here are some ideas to get you started:
 
 🏅 Blog : https://kookiencream.tistory.com
 
+🌱 Career : https://www.notion.so/44a2e29200044761bd613f1e3b1f0105
+
 
 <br/>
 
 #### [WHAT I CAN DO]
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+## Skills
+- **BackEnd** : JAVA, Spring Boot, Spring MVC, JPA, Spring Data JPA, Junit5
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white)
+- **DevOps** : MySql, H2
 
-
-
-![kookiedncream GitHub stats](https://github-readme-stats.vercel.app/api?username=kookiedncream&theme=material-palenight&show_icons=true)
-</div>
+- **FrontEnd**
