@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 - **DevOps** : MySql, H2
 
-- **FrontEnd**
+- **FrontEnd** : HTML5, CSS3
